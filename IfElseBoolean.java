@@ -32,7 +32,7 @@ public class IfElseBoolean {
 		}
 		else
 		{
-			JOptionPane.showInputDialog("The number of people has to be at least 3.");
+			JOptionPane.showMessageDialog(null, "The number of people has to be at least 3.");
 		}
 		
 		//determine the team size based off of the number of players, and output the team size
